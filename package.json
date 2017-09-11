@@ -24,5 +24,14 @@
   "bugs": {
     "url": "https://github.com/asilvas/image-pal-sharp/issues"
   },
-  "homepage": "https://github.com/asilvas/image-pal-sharp#readme"
+  "homepage": "https://github.com/asilvas/image-pal-sharp#readme",
+  "peerDependencies": {
+    "sharp": "*"
+  },
+  "devDependencies": {
+    "sharp": "^0.18.2"
+  },
+  "dependencies": {
+    "image-pal": "^1.1.3"
+  }
 }
