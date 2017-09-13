@@ -1,6 +1,6 @@
 {
   "name": "image-pal-sharp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A Node.js based implementation that leverages `Sharp` and `libvips` for fast palette generation",
   "main": "lib/hsluv.js",
   "directories": {
@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "sharp": "^0.18.2"
   },
