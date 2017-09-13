@@ -1,6 +1,6 @@
 {
   "name": "image-pal-sharp",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A Node.js based implementation that leverages `Sharp` and `libvips` for fast palette generation",
   "main": "lib/hsluv.js",
   "directories": {
@@ -38,6 +38,6 @@
     "sharp": "^0.18.2"
   },
   "dependencies": {
-    "image-pal": "^1.2.0"
+    "image-pal": "^1.2.1"
   }
 }
